@@ -1,3 +1,5 @@
+Este proyecto también está disponible en español (README.ES.md)
+
 # Helping Hands – Power BI Engagement & Conversion Report
 
 This project explores user engagement and conversion trends on a simulated grant-matching platform called **Helping Hands**. The goal was to identify which **non-partner organisations** are delivering the highest impact and should be prioritised for future partnerships, based on real user behaviour.
