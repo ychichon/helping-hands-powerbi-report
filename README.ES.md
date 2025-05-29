@@ -1,3 +1,5 @@
+This project is also available in English (README.md)
+
 # Helping Hands – Informe de Engagement y Conversión en Power BI
 
 Este proyecto analiza las tendencias de participación y conversión de usuarios en una plataforma simulada de conexión con ayudas financieras llamada **Helping Hands**. El objetivo fue identificar qué organizaciones no asociadas están generando mayor impacto y deberían priorizarse para futuras colaboraciones, basándose en el comportamiento real de los usuarios.
